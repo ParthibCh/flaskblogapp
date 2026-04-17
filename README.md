@@ -3,4 +3,4 @@ sqlalchemy has been used in this project for database integration with python, a
 jinja templating is extensively used.
 
 To set up this project, clone it to a working directory in your computer, create and activate a virtual environment, install flask, and run app.py.
-Thanks for reading /\.
+Thanks for reading.
